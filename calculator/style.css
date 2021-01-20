@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1551033406-611cf9a28f67?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80);
+}
+
+#scuff{
+    text-align: center;
+    width: 650px;
+    background-color:darkslateblue ;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border: darkmagenta 9px solid;
+}
+
+#title{
+    text-decoration: underline;
+    -webkit-text-stroke-width: .08px;
+    -webkit-text-stroke-color: white;
+}
